@@ -1,0 +1,20 @@
+Nome: 1
+Telefone: 1
+Endereço: 1
+Apagado: false
+
+Nome: ana
+Telefone: 11
+Endereço: 11
+Apagado: false
+
+Nome: anacleto
+Telefone: 11
+Endereço: 12
+Apagado: false
+
+Nome: isadora
+Telefone: 11
+Endereço: 12
+Apagado: false
+
